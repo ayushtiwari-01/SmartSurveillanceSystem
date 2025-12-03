@@ -1,0 +1,10 @@
+To run the code with all functionality:
+    python main.py --zones zones.json --show-heatmap
+
+
+To define a zone:
+    python define_zones.py --source 0 --output zones.json
+
+
+To add a new face to database:
+    python add_face.py --name "SriSkanda" --image "C:\Users\tiwar\Desktop\DLProject\data\skd2.jpeg"

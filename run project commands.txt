@@ -1,0 +1,12 @@
+run project:  
+
+python main.py --zones zones.json
+
+define zones:
+
+python define_zones.py --source 0 --output zones.json
+
+
+add face:
+
+python add_face.py --name "AyushTiwari" --image "C:\Users\tiwar\Desktop\DLProject\data\1.jpeg"

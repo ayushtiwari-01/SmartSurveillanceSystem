@@ -1,0 +1,9 @@
+.env
+*.pyc
+__pycache__/
+.venv/
+surveillance.db
+*.mp4
+heatmap_output.png
+alerts_log.json
+zones.json
